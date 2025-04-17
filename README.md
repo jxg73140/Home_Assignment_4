@@ -2,9 +2,9 @@
 
 # 1.NLP Preprocessing Pipeline Observation
 ## Pipeline Components
-✅ **Tokenization**: Splits text into individual words/punctuation  
-✅ **Stopword Removal**: Filters out common English words (e.g., "the", "are")  
-✅ **Stemming**: Reduces words to root form (e.g., "techniques" → "techniqu")
+**Tokenization**: Splits text into individual words/punctuation  
+**Stopword Removal**: Filters out common English words (e.g., "the", "are")  
+**Stemming**: Reduces words to root form (e.g., "techniques" → "techniqu")
 
 ## Sample Output
 For input:  
